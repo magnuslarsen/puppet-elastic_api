@@ -1,10 +1,12 @@
 {
-  "name": "magnus-elastic_api",
+  "name": "mightp-elastic_api",
   "version": "1.0.0",
-  "author": "magnuslarsen",
+  "author": "Magnus Larsen",
   "summary": "Manage Elastic Stack settings via Elasticsearch and Kibana API",
   "license": "Apache-2.0",
   "source": "https://github.com/magnuslarsen/puppet-elastic_api",
+  "project_page": "https://github.com/magnuslarsen/puppet-elastic_api",
+  "issues_url": "https://github.com/magnuslarsen/puppet-elastic_api/issues",
   "dependencies": [
 
   ],
