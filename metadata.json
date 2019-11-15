@@ -4,7 +4,7 @@
   "author": "magnuslarsen",
   "summary": "Manage Elastic Stack settings via Elasticsearch and Kibana API",
   "license": "Apache-2.0",
-  "source": "<link to repo>",
+  "source": "https://github.com/magnuslarsen/puppet-elastic_api",
   "dependencies": [
 
   ],
